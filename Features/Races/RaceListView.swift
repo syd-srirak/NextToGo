@@ -12,7 +12,7 @@ struct RaceListView: View {
     @StateObject private var viewModel = RaceListViewModel(raceService: RaceService.shared)
 
     var body: some View {
-        NavigationView {
+        NavigationStack {
             VStack(spacing: 0) {
                 // Sticky filter view
                 RaceFilterView(selectedCategories: $viewModel.selectedCategories)
