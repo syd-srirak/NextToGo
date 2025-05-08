@@ -2,6 +2,10 @@
 
 **NextToGo** is an iOS application that provides real-time race information and updates for upcoming races via the Neds racing API. With a clean and accessible UI, users can stay informed on the latest race events across different categories.
 
+| iPhone Screenshot | iPad Screenshot |
+|-------------------|-----------------|
+| <img src="https://github.com/user-attachments/assets/3fd60a92-cb61-402f-a376-aa23d80b355c" alt="iPhone Screenshot" width="300"/> | <img src="https://github.com/user-attachments/assets/f0835e1c-eec3-42d8-bfeb-e75878ef6639" alt="iPad Screenshot" width="400"/> |
+
 ---
 
 ## ✨ Features
